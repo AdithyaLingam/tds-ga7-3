@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 ﻿,Supplier_Lead_Time,Inventory_Levels,Order_Frequency,Delivery_Performance,Cost_Per_Unit
 Supplier_Lead_Time,1,,,,
 Inventory_Levels,0.315565217,1,,,
 Order_Frequency,-0.872737206,-0.294632523,1,,
 Delivery_Performance,-0.921229039,-0.258390977,0.718684764,1,
 Cost_Per_Unit,0.959776627,0.294253202,-0.812055827,-0.940922035,1
+=======
+﻿,Supplier_Lead_Time,Inventory_Levels,Order_Frequency,Delivery_Performance,Cost_Per_Unit
+Supplier_Lead_Time,1,,,,
+Inventory_Levels,0.315565217,1,,,
+Order_Frequency,-0.872737206,-0.294632523,1,,
+Delivery_Performance,-0.921229039,-0.258390977,0.718684764,1,
+Cost_Per_Unit,0.959776627,0.294253202,-0.812055827,-0.940922035,1
+>>>>>>> f630253 (Update project files)
